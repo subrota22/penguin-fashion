@@ -1,0 +1,18 @@
+.buttonStyle{
+width: 45%;
+background-color: rgba(0, 0, 255, 0.719);
+padding: 12px;
+border-radius: 12px;
+color: white;
+}
+
+.cardFooter{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+margin: 12px 10px;
+}
+
+.jacket{
+box-shadow:  0 0 4px 8px rgba(14, 180, 14, 0.76);
+}
